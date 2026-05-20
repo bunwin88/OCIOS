@@ -160,23 +160,7 @@ It is **not** financial advice, investment advice, or a live automated trading s
 
 ---
 
-## Safety and Privacy Notes
 
-Before publishing any working code, remove or redact:
-
-- API keys
-- OAuth tokens
-- brokerage credentials
-- account IDs
-- live portfolio values
-- raw order logs
-- personal file paths
-- local IPs
-- private model outputs
-- unredacted screenshots
-- virtual environments
-- cache folders
-- large raw market-data files
 
 ---
 
